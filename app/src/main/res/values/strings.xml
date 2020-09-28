@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Cinemania</string>
+
+    <string name="txtlogin">Cadastro</string>
+    <string name="txtusuario">Usuário</string>
+    <string name="txtsenha">Senha</string>
+    <string name="txtsenha2">Confirmar senha</string>
+    <string name="btnentrar">Entrar</string>
+    <string name="help">Ajuda</string>
+
+    <string name="ooi">Olá! Em que podemos te ajudar hoje?</string>
+    <string name="btningresso">Comprar ingresso</string>
+    <string name="btnsobre">Sobre o Cinemania</string>
+    <string name="btncatalogo">Catálogo</string>
+    <string name="btnlancamento">Lançamentos</string>
+    <string name="btnloca">Onde estou?</string>
+
+    <string name="txtnaoconsegue">Não consegue entrar no nosso aplicativo?</string>
+    <string name="txtliga">Aperte no telefone e nos ligue!</string>
+    <string name="txtemail">Ou mande-nos um email!</string>
+
+    <string name="btnvoltar">Voltar</string>
+
+    <string name="lancamentos">Lançamentos</string>
+
+    <string name="txtmal">Malévola </string>
+    <string name="txtmal2">Indicação: 12 anos</string>
+    <string name="txtsinopmal">Sinopse: Malévola, uma jovem de coração puro, vive em um pacífico reino na floresta, até o dia em que um exército invasor ameaça a harmonia da região, fazendo com que ela se torne a mais feroz protetora do reino.  </string>
+
+    <string name="txtving">Vingadores ultimato </string>
+    <string name="txtsinopving">Sinopse: Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos.</string>
+
+    <string name="txtsobre">Sobre o Cinemania</string>
+    <string name="txtlocal">Localidade: Avenida dos Autonomistas, 89  Osasco, SP</string>
+    <string name="txtemailcine">Email: cinemania2020@gmail.com</string>
+    <string name="txtnum">Telefone: 3002-8922</string>
+    <string name="txtsobre1"> O cinemania surgiu em 02 de março de 2020, ele foi uma criação de Rubens Barbosa e Carolina Silva, ambos naturalmente mineiros. Devido ao seu amor ao cinema, acabaram por pensar: E por que não ter um?</string>
+
+    <string name="txting">Comprar ingresso</string>
+    <string name="nome">Nome:</string>
+    <string name="rg">RG:</string>
+    <string name="filme">Sessões da semana</string>
+    <string name="fime1">Vingadores: ultimato - Quinta, 18h15 - Sala 5</string>
+    <string name="fime2">Malévola - Quinta, 13h - Sala 3</string>
+    <string name="fime3">Como treinar seu dragão 3 - Terça, 14h- Sala 5</string>
+    <string name="fime4">Meu malvado favorito - Quarta, 17h - Sala 3</string>
+    <string name="filme5"> Vingadores: ultimato- - Quarta, 19h - Sala 7</string>
+    <string name="fime6">Barbie e o castelo de diamantes - Terça, 20h - Sala 2</string>
+    <string name="decisao">Para efeturar o pagamento, se direcione ao balcão de atendimento da cinemania mais próximo e informe o código gerado na próxima tela</string>
+    <string name="tipo">Sessão:</string>
+    <string name="consulta">Para consultar outros filmes e sessoes contate-nos pelo telefone, email ou compre pessoalmente.</string>
+    <string name="acompanhamento">Com acompanhamento</string>
+    <string name="btncomprar">Comprar</string>
+
+    <string name="pag">Pagamento</string>
+    <string name="sessao">Sessão:</string>
+    <string name="acomp">Acompanhamento:</string>
+    <string name="pag1">Tipo de Pagamento</string>
+    <string name="tipo1">Crédito</string>
+    <string name="tipo2">Débito</string>
+    <string name="tipo3">Dinheiro</string>
+    <string name="btnfim">Finalizar</string>
+    <string name ="tipo_ingresso">Tipo de ingresso</string>
+    <string name="inteira">  Inteira (R$18,00)</string>
+    <string name="meia">  Meia (R$10,00)</string>
+
+    <string name="voltar">Voltar ao menu principal</string>
+
+    <string name="encaminha">Tudo certo! Se apresente ao balcão de atendimento mais próximo a você e diga o cógido fornecido abaixo! Lá você efetuará o pagamento e caso tenha ingresso meia será realizada a comprovação</string>
+    <string name="cod">23456-0</string>
+
+    <string name="catalogo">Catálogo</string>
+    <string name="drag">Como treinar o seu dragão 3</string>
+    <string name="rest">Indicação: Livre</string>
+    <string name="sinopdrag">Sinopse: Soluço busca realizar seu grande sonho de encontrar um lar pacífico onde os dragões possam viver em segurança. Lá, Banguela descobre uma companheira, assim como ele, mas um tanto selvagem.</string>
+    <string name="barbie">Barbie e o castelo de diamantes</string>
+    <string name="sinopbarbir">Sinopse: Liana e Alexa saem da sua cabana humilde para vender flores na vila e acabam conhecendo Melody, a guardiã do Castelo de Diamante. As duas decidem ajudá-la a impedir que a chave do castelo seja roubada por Lídia, uma musa egoísta.</string>
+
+    <string name="Perfil">Meu perfil</string>
+    <string name="User">Usuário:</string>
+    <string name="foto">Adicionar/mudar minha foto de perfil</string>
+
+    <string name="btnbuscar">Buscar</string>
+
+    <string name="user">Nevesgab</string>
+
+
+    <string name="get_location">Obter Localização</string>
+    <string name="textview_hint">Clique no botão para iniciar
+    </string>
+    <string name="location_permission_denied">Permissão negada, autorize a aplicação
+    </string>
+    <string name="address_text">"Endereço: %1$s  \n Latitude: %2$s \n Longitude: %3$s \n Timestamp: %4$tr"</string>
+
+    <string name="no_location">Localização Indisponível</string>
+    <string name="no_address_found">Endereço não disponível</string>
+    <string name="loading">Carregando…</string>
+    <string name="service_not_available">Serviço Indisponível</string>
+    <string name="invalid_lat_long_used">Coordenadas Inválidas</string>
+    <string name="start_tracking_location">Iniciar a Busca</string>
+    <string name="stop_tracking_location">Parar a Busca</string>
+</resources>
