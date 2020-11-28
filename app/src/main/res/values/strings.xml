@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">Cinemania</string>
 
-    <string name="txtlogin">Cadastro</string>
+    <string name="txtlogin">Login</string>
     <string name="txtusuario">Usuário</string>
     <string name="txtsenha">Senha</string>
-    <string name="txtsenha2">Confirmar senha</string>
     <string name="btnentrar">Entrar</string>
     <string name="help">Ajuda</string>
 
@@ -60,7 +59,7 @@
     <string name="tipo2">Débito</string>
     <string name="tipo3">Dinheiro</string>
     <string name="btnfim">Finalizar</string>
-    <string name ="tipo_ingresso">Tipo de ingresso</string>
+    <string name="tipo_ingresso">Tipo de ingresso</string>
     <string name="inteira">  Inteira (R$18,00)</string>
     <string name="meia">  Meia (R$10,00)</string>
 
@@ -99,4 +98,11 @@
     <string name="invalid_lat_long_used">Coordenadas Inválidas</string>
     <string name="start_tracking_location">Iniciar a Busca</string>
     <string name="stop_tracking_location">Parar a Busca</string>
+
+    <string name="cad">Cadastro</string>
+    <string name="nomecad">Nome: </string>
+    <string name="emailcad">Email: </string>
+    <string name ="usercad">Usuário: </string>
+    <string name="senhacad">Senha: </string>
+
 </resources>
